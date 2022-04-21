@@ -5,8 +5,6 @@ Packages to install =>
 dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 dotnet add package Microsoft.AspNetCore.Mvc.NewtonsoftJson
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-dotnet tool install -g Microsoft.dotnet-httprepl
 
 Install & Update dotnet EF tool =>
 dotnet tool install --global dotnet-ef
